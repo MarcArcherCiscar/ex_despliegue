@@ -1,0 +1,2 @@
+Importamos el package, hacemos un up del vagrant, i como ya hemos hecho que se configure la mayor parte automaticamente 
+al hacer el up ya se habran automatizado los procesos.
